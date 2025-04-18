@@ -2,6 +2,8 @@
 Control Structure in Python
 
 TASK 1 : PROGRAM TO CHECK ENTERED NUMBER IS EVEN OR ODD IN PYTHON
+
+
 Description
 The program prompts the user to enter a number. It then uses the modulus operator % to determine whether the number is divisible by 2:
 
